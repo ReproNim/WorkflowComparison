@@ -30,7 +30,7 @@ Remember to include methods for:
 * Use standards and containers for everything
 
 # The Workflow Systems
-We are starting the the following workflow systems. But, this list is not exhaustive. If you would like another system included, feel
+We are starting with the following workflow systems. But, this list is not exhaustive. If you would like another system included, feel
 free to join up and add it!
 
 * BrainLife
