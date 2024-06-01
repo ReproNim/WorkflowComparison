@@ -7,8 +7,9 @@ using a number of the ways that arailable. At the same time, we also review how 
 processing ***The ReproNim Way*** (adding best practice operations for version control, standards, and annotation, particularly)
 can be acheived using each of these different workflow approaches.
 
-
 Welcome to the The git repo for the ReproNim Workflow Comparison Project.
+
+Some additional notes are [here](https://docs.google.com/document/d/1cuR2OGhYzKYu9fi9DoBjc3ci4kwik-brXBt6BLSNwsI/edit)
 
 # The Problem
 Take the structural imaging data of the OpenNeuro dataset [ds004215](https://openneuro.org/datasets/ds004215/versions/1.0.3) "The National 
