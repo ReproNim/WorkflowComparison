@@ -63,7 +63,7 @@ See the BrainLife Approach Document [here].
 DNKs Status - inprogress
 
 ## NIPOPPY
-See the NIPOPPY Approach Document [here].
+See the NIPOPPY Approach Document [here](docs/nipoppy.md).
 
 DNKs Status - stalled
 
@@ -78,7 +78,7 @@ See the BrainLife Approach Document [here].
 DNKs Status - not started yet
 
 ## BABS
-See the BrainLife Approach Document [here].
+See the BrainLife Approach Document [here](docs/bash.md).
 
 DNKs Status - not started yet
 
