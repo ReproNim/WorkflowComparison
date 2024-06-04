@@ -78,12 +78,12 @@ See the BrainLife Approach Document [here].
 DNKs Status - not started yet
 
 ## BABS
-See the BrainLife Approach Document [here](docs/bash.md).
+See the BrainLife Approach Document [here](docs/babs.md).
 
 DNKs Status - not started yet
 
 ## Bash
-See the BrainLife Approach Document [here].
+See the BrainLife Approach Document [here](docs/bash.md).
 
 DNKs Status - not started yet.
 
