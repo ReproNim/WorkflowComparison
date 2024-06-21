@@ -25,6 +25,7 @@ using the tools *fsl_anat* and *FreeSurfer*, and from these results test each re
 ## Incorporate ReproNim Best Practices
 Remember to include methods for:
 * Version control everything
+    * FreeSurfer annotation via [segstats_jsonld](https://github.com/ReproNim/segstats_jsonld)   
 * Share everything
 * Annotate everything
 * Use standards and containers for everything
